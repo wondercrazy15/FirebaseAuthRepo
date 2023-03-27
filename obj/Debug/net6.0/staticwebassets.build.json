@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HSYBOgw/LTS3kA/1yuluSLyQf/1MfkclQGZzJOMvQh4=",
+  "Source": "FirebaseAuth",
+  "BasePath": "_content/FirebaseAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
